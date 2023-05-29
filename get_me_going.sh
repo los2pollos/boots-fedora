@@ -13,7 +13,7 @@ echo "defaultyes=True" >> /etc/dnf/dnf.conf
 #
 # my_packages='timeshift'
 #
-my_flatpaks='com.toggl.TogglDesktop com.github.phase1geo.minder org.libreoffice.LibreOffice com.jgraph.drawio.desktop org.signal.Signal org.telegram.desktop org.mozilla.Thunderbird us.zoom.Zoom com.github.xournalpp.xournalpp org.videolan.VLC'
+my_flatpaks='com.toggl.TogglDesktop com.github.phase1geo.minder org.libreoffice.LibreOffice com.jgraph.drawio.desktop org.signal.Signal org.telegram.desktop org.mozilla.Thunderbird us.zoom.Zoom com.github.xournalpp.xournalpp org.videolan.VLC org.mozilla.firefox'
 #
 # dnf install $basic_kde_packages
 # dnf install $my_packages
